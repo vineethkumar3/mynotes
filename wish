@@ -1,1 +1,2 @@
-hello
+scp -i <key-pair> <fileaname> <username>@<ip address>:<path to copy>
+ssh -i <key-pair> <username>@<ip address>
